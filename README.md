@@ -1,2 +1,2 @@
 # pi-hole
-Tengo Blocklists de pihole están en /lists
+Tengo Blocklists de pihole están en archivos
