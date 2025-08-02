@@ -1,2 +1,2 @@
 # pi-hole
-Hi, here are some combinations of others pi-hole adlists.
+Tengo Blocklists de pihole están en /lists
